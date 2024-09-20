@@ -13,7 +13,7 @@
 /*------------------------------------------------------------
       you can't disable this, is the full theme dummy
 ------------------------------------------------------------*/
-@import url(https://zuzumi-f.github.io/Discord-11/base.css);
+@import url(https://raw.githubusercontent.com/fo-od/Discord-11/refs/heads/main/base.css);
 
 /*-------------------------------------------------------------------------------------------------
                                         Windows 11 emojis
@@ -23,13 +23,13 @@
 /*--------------------------------------------------------------------------------
                               Windows 11 Font (Segoe UI)
 ---------------------------------------------------------------------------------*/
-@import url(https://zuzumi-f.github.io/Discord-11/release/font/windows11font.css);
+@import url(https://raw.githubusercontent.com/fo-od/Discord-11/refs/heads/main/release/font/windows11font.css);
 
 /*--------------------------------------------------------------
                         Message bubble style
 ----------------------------------------------------------------*/
 /* Default Message Bubble */
-@import url(https://zuzumi-f.github.io/Discord-11/release/messagebubble11.css);
+@import url(https://raw.githubusercontent.com/fo-od/Discord-11/refs/heads/main/release/messagebubble11.css);
 
 /*--------------------------------------------------------------
                            Glass effect
@@ -37,7 +37,7 @@
             and enable Transparency in BD Settings]
 ---------------------------------------------------------------*/
 /*--Yes you can enable/disable this--*/
-/* @import url(https://zuzumi-f.github.io/Discord-11/release/glasseffect.css); */
+/* @import url(https://raw.githubusercontent.com/fo-od/Discord-11/refs/heads/main/release/glasseffect.css); */
 
 /*--------------------------------------------------------------
                            Settings

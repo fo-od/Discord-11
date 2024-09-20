@@ -1,5 +1,5 @@
 /* Windows 11 font */
-@import url(https://zuzumi-f.github.io/Discord-11/release/font/SegoeUIVariableStaticDisplay.ttf);
+@import url(https://raw.githubusercontent.com/fo-od/Discord-11/refs/heads/main/release/font/SegoeUIVariableStaticDisplay.ttf);
 /* Font */
 :root {
     --font-primary: Segoe UI, sans-serif;
