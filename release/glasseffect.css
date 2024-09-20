@@ -77,12 +77,12 @@ div#app-mount.appMount_ea7e65::before {
     background-color: hsla(0, 0%, 96%, 0.3) !important;
 }
 
-.container_e44302.themed_e44302,
+.container_fc4f04.themed_fc4f04,
 .nowPlayingColumn_c2739c,
 .container_bf550a {
     background-color: transparent !important;
 }
-.children_e44302:after {
+.children_fc4f04:after {
     display: none;
 }
 
@@ -184,7 +184,7 @@ div#app-mount.appMount_ea7e65::before {
 }
 
 .wrapper_ba0ffb,
-.wrapper_b211c6 {
+.wrapper_b75bb9 {
     background-color: transparent !important;
 }
 
@@ -224,7 +224,7 @@ div#app-mount.appMount_ea7e65::before {
     background-color: hsla(0, 0%, 6%, 0.4) !important;
 }
 .theme-dark .itemCard_f02fcf:hover,
-.theme-dark .itemCard_f02fcf.active_c0f6a6 {
+.theme-dark .itemCard_f02fcf.active_ac5d22 {
     background-color: hsla(0, 0%, 8%, 0.6) !important;
 }
 
@@ -232,11 +232,11 @@ div#app-mount.appMount_ea7e65::before {
     background-color: hsla(0, 0%, 96%, 0.2) !important;
 }
 .theme-light .itemCard_f02fcf:hover,
-.theme-light .itemCard_f02fcf.active_c0f6a6 {
+.theme-light .itemCard_f02fcf.active_ac5d22 {
     background-color: hsla(0, 0%, 98%, 0.3) !important;
 }
 
-#app-mount .inset_c0f6a6 {
+#app-mount .inset_ac5d22 {
     background-color: transparent !important;
 }
 
@@ -304,7 +304,7 @@ div#app-mount.appMount_ea7e65::before {
 .theme-dark .pageWrapper_a3a4ce {
     background-color: hsla(0, 0%, 6%, 0.6) !important;
 }
-.theme-dark .card_eb1ca6 {
+.theme-dark .card_e90879 {
     background-color: hsla(0, 0%, 12%, 0.6) !important;
 }
 
@@ -314,7 +314,7 @@ div#app-mount.appMount_ea7e65::before {
 .theme-light .pageWrapper_a3a4ce {
     background-color: hsla(0, 0%, 96%, 0.3) !important;
 }
-.theme-light .card_eb1ca6 {
+.theme-light .card_e90879 {
     background-color: hsla(0, 0%, 100%, 0.3) !important;
 }
 

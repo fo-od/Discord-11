@@ -1,73 +1,73 @@
-#app-mount .message-2CShn3.selected-2LX7Jy[data-is-author-self="true"] {
+#app-mount .message_d5deea.selected_d5deea[data-is-author-self="true"] {
     width: auto;
 }
-#app-mount .message-2CShn3.selected-2LX7Jy[data-is-author-self="true"] .contents-2MsGLg {
+#app-mount .message_d5deea.selected_d5deea[data-is-author-self="true"] .contents_f9f2ca {
     width: 100%;
 }
 
-#app-mount .contents-2MsGLg > .messageContent-2t3eCI {
+#app-mount .contents_f9f2ca > .messageContent_f9f2ca {
     overflow: visible;
 }
 
-#app-mount .cozy-VmLDNB.wrapper-30-Nkg .contents-2MsGLg .header-2jRmjb {
+#app-mount .cozy_f9f2ca.wrapper_f9f2ca .contents_f9f2ca .header_f9f2ca {
     padding: 8px;
     padding-bottom: 4px;
 }
-#app-mount .cozy-VmLDNB.groupStart-3Mlgv1 .contents-2MsGLg .messageContent-2t3eCI:not(:empty, :first-child) {
+#app-mount .cozy_f9f2ca.groupStart_d5deea .contents_f9f2ca .messageContent_f9f2ca:not(:empty, :first-child) {
     padding-top: 0;
 }
-#app-mount .cozy-VmLDNB .contents-2MsGLg > .messageContent-2t3eCI:not(:empty) {
+#app-mount .cozy_f9f2ca .contents_f9f2ca > .messageContent_f9f2ca:not(:empty) {
     margin-left: 0;
     padding: 8px;
 }
 
-#app-mount .compact-2Nkcau .contents-2MsGLg {
+#app-mount .compact_f9f2ca .contents_f9f2ca {
     padding: 8px;
 }
 
-#app-mount .contents-2MsGLg pre {
+#app-mount .contents_f9f2ca pre {
     max-width: 100%;
 }
 
-#app-mount .contents-2MsGLg {
+#app-mount .contents_f9f2ca {
     background-color: var(--background-secondary);
     border-radius: 4px;
     width: fit-content;
 }
-#app-mount .contents-2MsGLg {
+#app-mount .contents_f9f2ca {
     display: inline-block;
     max-width: 100%;
 }
-#app-mount .message-2CShn3 {
+#app-mount .message_d5deea {
     max-width: 100%;
     display: flex;
     flex-direction: column;
 }
-#app-mount .message-2CShn3:hover .contents-2MsGLg,
-#app-mount .message-2CShn3.selected-2LX7Jy .contents-2MsGLg {
+#app-mount .message_d5deea:hover .contents_f9f2ca,
+#app-mount .message_d5deea.selected_d5deea .contents_f9f2ca {
     background-color: var(--background-secondary-alt);
 }
 
-#app-mount .compact-2Nkcau .contents-2MsGLg {
+#app-mount .compact_f9f2ca .contents_f9f2ca {
     margin-left: -64px;
     padding-left: 4rem;
 }
-#app-mount .mentioned-Tre-dv.compact-2Nkcau .contents-2MsGLg .messageContent-2t3eCI::before {
+#app-mount .mentioned_d5deea.compact_f9f2ca .contents_f9f2ca .messageContent_f9f2ca::before {
     left: -4px;
 }
-#app-mount .replying-eZ7p5z.compact-2Nkcau .contents-2MsGLg .messageContent-2t3eCI::before {
+#app-mount .replying_d5deea.compact_f9f2ca .contents_f9f2ca .messageContent_f9f2ca::before {
     left: -4px;
 }
 
-#app-mount .mentioned-Tre-dv .contents-2MsGLg {
+#app-mount .mentioned_d5deea .contents_f9f2ca {
     background-color: var(--background-mentioned);
 }
-#app-mount .mentioned-Tre-dv:hover .contents-2MsGLg,
-#app-mount .mentioned-Tre-dv.selected-2LX7Jy .contents-2MsGLg {
+#app-mount .mentioned_d5deea:hover .contents_f9f2ca,
+#app-mount .mentioned_d5deea.selected_d5deea .contents_f9f2ca {
     background-color: var(--background-mentioned-hover);
 }
 
-#app-mount .repliedMessage-3Z6XBG {
+#app-mount .repliedMessage_f9f2ca {
     background-color: var(--background-message-hover);
     margin-bottom: 0;
     padding: 6px;
@@ -75,24 +75,24 @@
     width: fit-content;
     max-width: 100%;
 }
-.repliedMessage-3Z6XBG:before {
+.repliedMessage_f9f2ca:before {
     display: none;
 }
 
-#app-mount .replying-eZ7p5z .contents-2MsGLg {
+#app-mount .replying_d5deea .contents_f9f2ca {
     background-color: var(--brand-experiment-05a);
 }
-#app-mount .replying-eZ7p5z:hover .contents-2MsGLg,
-#app-mount .replying-eZ7p5z.selected-2LX7Jy .contents-2MsGLg {
+#app-mount .replying_d5deea:hover .contents_f9f2ca,
+#app-mount .replying_d5deea.selected_d5deea .contents_f9f2ca {
     background-color: var(--brand-experiment-10a);
 }
 
-#app-mount .replying-eZ7p5z:before {
+#app-mount .replying_d5deea:before {
     background-color: var(--brand-experiment);
 }
 
-#app-mount .mentioned-Tre-dv:before,
-#app-mount .replying-eZ7p5z:before {
+#app-mount .mentioned_d5deea:before,
+#app-mount .replying_d5deea:before {
     width: 3px;
     height: calc(100% - 12px);
     border-radius: 1.5px;
@@ -100,6 +100,6 @@
     top: 6px;
 }
 
-.a11y-font-scaled-down .cozy-VmLDNB .header-2jRmjb {
+.a11y-font-scaled-down .cozy_f9f2ca .header_f9f2ca {
     margin-left: 0 !important;
 }
