@@ -2,8 +2,8 @@
 @import url('https://raw.githubusercontent.com/fo-od/Discord-11/refs/heads/main/release/valuesofdiscord.css');
 
 /* Color fix */
-#app-mount .container_a6d69a */ /* Forums */,
-#app-mount .forumOrHome_ff5f90 */ /* Forums Header */ {
+#app-mount .container_a6d69a /* Forums */,
+#app-mount .forumOrHome_ff5f90 /* Forums Header */ {
     background: none;
 }
 
